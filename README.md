@@ -1,1 +1,1 @@
-# ASP.NET Core Blazore with Contentful
+# ASP.NET Core Blazor Website with Contentful

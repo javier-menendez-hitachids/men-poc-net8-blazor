@@ -1,2 +1,1 @@
-# men-poc-net8-blazor
-Blazor + Contentful solution 
+# ASP.NET Core Blazore with Contentful
